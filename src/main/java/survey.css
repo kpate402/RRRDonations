@@ -1,0 +1,47 @@
+.text {
+    -fx-text-color: black;
+    -fx-font-family: "Arial";
+    -fx-font-size: 20;
+}
+
+.title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-fill: #333333;
+}
+
+.button {
+    -fx-background-color: #D5DCE0;
+    -fx-text-fill: black;
+    -fx-font-size: 32;
+    -fx-font-family: "Arial";
+    -fx-border-color: #007bff; /* Border color */
+    -fx-border-width: 0px; /* Border width */
+    -fx-border-radius: 1px; /* Border radius */
+ }
+
+ .button:hover {
+    -fx-background-color: #E3E8EA; /* Light blue on hover */
+    -fx-underline: true;
+}
+
+/* Pressed effect when button is clicked */
+.button:pressed {
+    -fx-background-color: #C7D1D5; /* Darker blue when pressed */
+}
+
+
+
+.text-field {
+    -fx-font-family: "Arial";
+    -fx-font-size: 14;
+    -fx-max-width: 500px; /* Adjust maximum width as needed */
+    -fx-max-height: 20px; /* Adjust maximum height as needed */
+    /* Additional styling properties for TextField nodes */
+}
+
+.border-pane {
+  -fx-background-color: #F2EFED; /* Darker blue on hover */
+
+}

@@ -1,0 +1,20 @@
+Api keys needed are googles api key and rapidapi.com's key 
+
+googles api key needs to be added at line 130 in RRRDonations.java
+
+key is: AIzaSyDGWDZoGm8WjvNAIdO2v5r1Sg9YXlETdOo
+
+rapidapi's api key is to be added at line 29 in DatabaseUtil.java
+
+key is: bd775bb11amshba4712929d528f0p1efca1jsn86bb61879870
+
+These keys may be subject to change and may stop working after a 
+period of time
+
+also note:
+private static final String JDBC_URL = "jdbc:h2:~/test;MODE=MySQL";
+private static final String USER = "sa";
+private static final String PASSWORD = "";
+
+These variables are important because they are needed to access the
+shared mysql database
