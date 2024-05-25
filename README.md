@@ -12,18 +12,21 @@ contained in the Nonprofit, Donor, and Beneficiary classes, is also stored in ou
 
 # API Keys
 
-# Api keys needed are googles api key and rapidapi.com's key 
-# google’s api key needs to be added at line 130 in RRRDonations.java
-# rapidapi's api key is to be added at line 29 in DatabaseUtil.java
+Api keys needed are googles api key and rapidapi.com's key 
+google’s api key needs to be added at line 130 in RRRDonations.java
+rapidapi's api key is to be added at line 29 in DatabaseUtil.java
 
 # Steps to run the project
 
-# Project is a maven project made in java. It can be run by using commands mvn clean compile exec:java. Make sure 
-# You have your own api keys before running the project The prototype has 3 choices at the start for each user type. Beneficiaries have to fill in a survey/login and then can 
-# proceed to their profile page. This page shows their information and what charities best match their needs.There is also a wishlist where they can list their current needs and # wants, a update survey button to update the survey, and a navigation function which uses googles static maps API to give users directions to a certain charity. The Donors 
-# are also similar to the Beneficiaries where they have a survey/login and then can proceed to their profile page. The difference is that Donors have a donor list instead of a 
-# wish list that includes what items they wish to give away and that Donors have the option to volunteer their time. Lastly the Nonprofits can be accessed straight from the 
-# home page from a dropdown menu and clicking any nonprofit pulls up all their information and has the navigation function as well. 
+Project is a maven project made in java. It can be run by using commands mvn clean compile exec:java. Make sure 
+You have your own api keys before running the project The prototype has 3 choices at the start for each user type. Beneficiaries have to 
+fill in a survey/login and then can proceed to their profile page. This page shows their information and what charities best match their 
+needs. There is also a wishlist where they can list their current needs and # wants, a update survey button to update the survey, and a 
+navigation function which uses googles static maps API to give users directions to a certain charity. The Donors are also similar to the 
+Beneficiaries where they have a survey/login and then can proceed to their profile page. The difference is that Donors have a donor list 
+instead of a wish list that includes what items they wish to give away and that Donors have the option to volunteer their time. Lastly 
+the Nonprofits can be accessed straight from the home page from a dropdown menu and clicking any nonprofit pulls up all their 
+information and has the navigation function as well. 
 
 # Project development and iterative cycle
 
