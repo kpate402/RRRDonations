@@ -1,14 +1,13 @@
 # RRRDonations
 
-RRRDonations is a project initial RRR Donations is a project aimed to streamline connecting donors 
-and beneficiaries to nonprofit organizations by creating an efficient donation management platform. 
-This application is trying to reach the donations and charity domain to better help the less fortunate.
-We, Saahi Arumilli, Yibin Li, Kush Patel, Pawel Rozanski, created our prototype based on the original idea
-created by Group 20 in Fall 2023 by developers, Fatin, Jennifer, Edgar, and Joshua. Our prototype mainly 
-consists of a RRRDonations class containing all frontend elements, DatabaseUtil class which contains all functions 
-relating to the database, EmailUtil class which has elements to create our email functionality, Nonprofit, 
-Donor, and Beneficiary classes, which store data for our user types. Additionally, information that can be 
-contained in the Nonprofit, Donor, and Beneficiary classes, is also stored in our database 
+RRRDonations is a project aimed to streamline connecting donors and beneficiaries to nonprofit organizations 
+by creating an efficient donation management platform. This application is trying to reach the donations and 
+charity domain to better help the less fortunate. We, Saahi Arumilli, Yibin Li, Kush Patel, Pawel Rozanski, 
+created our prototype based on the original idea created by Group 20 in Fall 2023 by developers, Fatin, Jennifer, 
+Edgar, and Joshua. Our prototype mainly consists of a RRRDonations class containing all frontend elements, DatabaseUtil 
+class which contains all functions relating to the database, EmailUtil class which has elements to create our email 
+functionality, Nonprofit, Donor, and Beneficiary classes, which store data for our user types. Additionally, information 
+that can be contained in the Nonprofit, Donor, and Beneficiary classes, is also stored in our database 
 
 # API Keys
 
